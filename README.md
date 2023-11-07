@@ -1,6 +1,6 @@
 ### Hi 👋
 
-I'm Jess, a recent mathematics masters graduate from the University of Bristol, and a current Graduate DevOps Engineer for the Civil Service. I code Python and am currently learning Java.
+I'm Jess, a recent mathematics masters graduate from the University of Bristol, and a current graduate devops engineer for the Civil Service. I code Python and am learning Java.
 
 🔭 I’m currently working on
 
