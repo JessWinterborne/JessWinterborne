@@ -1,4 +1,17 @@
-### Hi there 👋
+### Hi 👋
+
+I'm Jess, a recent mathematics masters graduate from the University of Bristol, and a current Graduate DevOps Engineer for the Civil Service. I code Python and am currently learning Java.
+
+🔭 I’m currently working on
+[Club_Visual_Generation](https://github.com/JessWinterborne/Club_Visual_Generation) - A library to generate videos with diffusion models in an interactive manner
+ADD HOUSE SEARCH FUNCTION HERE
+🌱 My latest projects
+[Quantum_Wave_Propagation](https://github.com/JessWinterborne/Quantum_Wave_Propagation) - A ...
+[Music_Genre_Classifier](https://github.com/JessWinterborne/Music_Genre_Classifier) - ...
+📫 How to reach me
+LinkedIn: [Jess_Winterborne](https://www.linkedin.com/in/jess-winterborne/)
+Email: jessiewinterborne@gmail.com
+
 
 <!--
 **JessWinterborne/JessWinterborne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
