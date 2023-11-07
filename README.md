@@ -9,8 +9,8 @@ I'm Jess, a recent mathematics masters graduate from the University of Bristol, 
 
 🌱 My latest projects
 
-- [Quantum_Wave_Propagation](https://github.com/JessWinterborne/Quantum_Wave_Propagation) - A ...
-- [Music_Genre_Classifier](https://github.com/JessWinterborne/Music_Genre_Classifier) - ...
+- [Quantum_Wave_Propagation](https://github.com/JessWinterborne/Quantum_Wave_Propagation) - ... add description here
+- [Music_Genre_Classifier](https://github.com/JessWinterborne/Music_Genre_Classifier) - ... add description here
 
 📫 How to reach me
 
