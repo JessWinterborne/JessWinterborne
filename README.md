@@ -7,7 +7,7 @@ I'm Jess, a recent mathematics masters graduate from the University of Bristol, 
 - [Club_Visual_Generation](https://github.com/JessWinterborne/Club_Visual_Generation) - A library to generate videos with diffusion models in an interactive manner
 - House Search Function
 - QIT / QC Algorithms - Implementing different quantum information theory / quantum computing algorithms in Python
-- nSTT (noisy speech-to-text)
+- nSTT - a noisy speech to text interface with various functionalities 
 
 🌱 My latest projects
 
