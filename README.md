@@ -5,8 +5,8 @@ I'm Jess, a recent mathematics masters graduate from the University of Bristol, 
 🔭 I’m currently working on
 
 - [Club_Visual_Generation](https://github.com/JessWinterborne/Club_Visual_Generation) - A library to generate videos with diffusion models in an interactive manner
-- ADD HOUSE SEARCH FUNCTION HERE
-- QIT / QC Algorithms - Implementing different quantum information theory and quantum computing algorithms in Python
+- House Search Function
+- QIT / QC Algorithms - Implementing different quantum information theory / quantum computing algorithms in Python
 - nSTT 
 
 🌱 My latest projects
