@@ -9,8 +9,8 @@ I'm Jess, a recent mathematics masters graduate from the University of Bristol, 
 - QIT / QC Algorithms - Implementing different quantum information theory / quantum computing algorithms in Python
 
 🌱 My latest projects
-- [Quantum_Wave_Propagation](https://github.com/JessWinterborne/Quantum_Wave_Propagation) - 
-- [Music_Genre_Classifier](https://github.com/JessWinterborne/Music_Genre_Classifier) -
+- [Quantum_Wave_Propagation](https://github.com/JessWinterborne/Quantum_Wave_Propagation) - Part of my 4th year masters project, visualling different quantum wave interactions.
+- [Music_Genre_Classifier](https://github.com/JessWinterborne/Music_Genre_Classifier) - My contributions from my 3rd year AI project building a music genre classifier.
 
 📫 How to reach me
 
