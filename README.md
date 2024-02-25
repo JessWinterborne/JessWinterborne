@@ -1,6 +1,6 @@
 ### Hi 👋
 
-I'm Jess, a recent mathematics masters graduate from the University of Bristol, and a current graduate devops engineer for the Civil Service. I code Python and am learning Java.
+I'm Jess, a recent mathematics masters graduate from the University of Bristol, and a current graduate devops engineer for the Civil Service. I code Python and am learning various different programming languages as part of my work.
 
 🔭 I’m currently working on
 - [Noisy_Speech_to_Text](https://github.com/JessWinterborne/Noisy_Speech_to_Text) - A noisy speech-to-text interface with various functionalities 
