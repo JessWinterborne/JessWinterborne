@@ -3,7 +3,7 @@
 I'm Jess, a recent mathematics masters graduate from the University of Bristol, and a current graduate devops engineer for the Civil Service. I code Python and am learning Java.
 
 🔭 I’m currently working on
-- [nSTT](https://github.com/JessWinterborne/Noisy_Speech_to_Text) - A noisy speech-to-text interface with various functionalities 
+- [Noisy_Speech_to_Text](https://github.com/JessWinterborne/Noisy_Speech_to_Text) - A noisy speech-to-text interface with various functionalities 
 - [Club_Visual_Generation](https://github.com/JessWinterborne/Club_Visual_Generation) - A library to generate videos with diffusion models in an interactive manner
 - House Search Function
 - QIT / QC Algorithms - Implementing different quantum information theory / quantum computing algorithms in Python
