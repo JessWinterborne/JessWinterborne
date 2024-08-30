@@ -3,7 +3,7 @@
 I'm Jess, a recent mathematics masters graduate from the University of Bristol, and a current graduate devops / software engineer for the UK Civil Service. I initially learned to code in Python, but am gaining experience with various different programming languages as part of my current job.
 
 🔭 I’m currently working on
-- [Desk_Booking_App](https://github.com/JessWinterborne/Desk_Booking_App) - A containerised office desk booking Application, with a Spring Boot back-end and a PostgreSQL database. Orchestrated via Docker Compose. Intending to implement a React front-end. 
+- [Desk_Booking_App](https://github.com/JessWinterborne/Desk_Booking_App) - A containerised office desk booking application, with a Spring Boot back-end and a PostgreSQL database. Orchestrated via Docker Compose. Intending to implement a React front-end. 
 - QIT / QC Algorithms - Implementing different quantum information theory / quantum computing algorithms in Python.
 
 🌱 My latest projects
