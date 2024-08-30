@@ -7,7 +7,7 @@ I'm Jess, a recent mathematics masters graduate from the University of Bristol, 
 - QIT / QC Algorithms - Implementing different quantum information theory / quantum computing algorithms in Python.
 
 🌱 My latest projects
-- [Noisy_Speech_to_Text](https://github.com/JessWinterborne/Noisy_Speech_to_Text) - A noisy speech-to-text interface with various functionalities.
+- [Noisy_Speech_to_Text](https://github.com/JessWinterborne/Noisy_Speech_to_Text) - A noisy speech-to-text application with various functionalities.
 - [Quantum_Wave_Propagation](https://github.com/JessWinterborne/Quantum_Wave_Propagation) - Part of my 4th year masters project, visualling different quantum wave interactions.
 - [Music_Genre_Classifier](https://github.com/JessWinterborne/Music_Genre_Classifier) - My contributions from my 3rd year AI project building a music genre classifier.
 
