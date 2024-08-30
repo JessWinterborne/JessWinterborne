@@ -1,6 +1,6 @@
 ### Hi 👋
 
-I'm Jess, a recent mathematics masters graduate from the University of Bristol, and a current graduate devops / software engineer for the UK Civil Service. I code Python and am gaining experience with various different programming languages as part of my work.
+I'm Jess, a recent mathematics masters graduate from the University of Bristol, and a current graduate devops / software engineer for the UK Civil Service. I initially learned to code in Python, but am gaining experience with various different programming languages as part of my current work.
 
 🔭 I’m currently working on
 - [Desk_Booking_App](https://github.com/JessWinterborne/Desk_Booking_App) - A containerised office desk booking Application, with a Spring Boot back-end and a PostgreSQL database. Orchestrated via Docker Compose. Intending to implement a React front-end. 
