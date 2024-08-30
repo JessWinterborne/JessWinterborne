@@ -3,13 +3,12 @@
 I'm Jess, a recent mathematics masters graduate from the University of Bristol, and a current graduate devops engineer for the Civil Service. I code Python and am learning various different programming languages as part of my work.
 
 🔭 I’m currently working on
-- [Club_Visual_Generation](https://github.com/JessWinterborne/Club_Visual_Generation) - A library to generate videos with diffusion models in an interactive manner
-- House Search Function
-- QIT / QC Algorithms - Implementing different quantum information theory / quantum computing algorithms in Python
-- A Containerised Office Desk Booking Application
+- [Desk_Booking_App](https://github.com/JessWinterborne/Desk_Booking_App) - A containerised office desk booking Application, with a Spring Boot back-end and a PostgreSQL database. Orchestrated via Docker Compose. Intending to implement a React front-end. 
+- [Club_Visual_Generation](https://github.com/JessWinterborne/Club_Visual_Generation) - A library to generate videos with diffusion models in an interactive manner.
+- QIT / QC Algorithms - Implementing different quantum information theory / quantum computing algorithms in Python.
 
 🌱 My latest projects
-- [Noisy_Speech_to_Text](https://github.com/JessWinterborne/Noisy_Speech_to_Text) - A noisy speech-to-text interface with various functionalities 
+- [Noisy_Speech_to_Text](https://github.com/JessWinterborne/Noisy_Speech_to_Text) - A noisy speech-to-text interface with various functionalities.
 - [Quantum_Wave_Propagation](https://github.com/JessWinterborne/Quantum_Wave_Propagation) - Part of my 4th year masters project, visualling different quantum wave interactions.
 - [Music_Genre_Classifier](https://github.com/JessWinterborne/Music_Genre_Classifier) - My contributions from my 3rd year AI project building a music genre classifier.
 
