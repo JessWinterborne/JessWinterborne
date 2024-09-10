@@ -4,7 +4,7 @@ I'm Jess, a recent mathematics masters graduate from the University of Bristol, 
 
 🔭 I’m currently working on
 - [Desk_Booking_App](https://github.com/JessWinterborne/Desk_Booking_App) - A containerised office desk booking application, with a Spring Boot back-end and a PostgreSQL database. Orchestrated via Docker Compose. Intending to implement a React front-end. 
-- QIT / QC Algorithms - Implementing different quantum information theory / quantum computing algorithms in Python.
+- QIT / QC Algorithms - Implementing different quantum information / quantum computing algorithms in Python.
 
 🌱 My latest projects
 - [Noisy_Speech_to_Text](https://github.com/JessWinterborne/Noisy_Speech_to_Text) - A noisy speech-to-text application with various functionalities.
